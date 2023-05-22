@@ -1,0 +1,4 @@
+﻿  прата-крут.cpp
+C:\Users\monlan\Documents\прата-крут\прата-крут\прата-крут.cpp(9,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\monlan\Documents\прата-крут\прата-крут\прата-крут.cpp(10,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  прата-крут.vcxproj -> C:\Users\monlan\Documents\прата-крут\arm64\Debug\прата-крут.exe
